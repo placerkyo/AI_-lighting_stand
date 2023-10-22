@@ -1,0 +1,1890 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.23.0" title="Shotcut version 20.10.31" producer="main_bin">
+  <profile description="automatic" width="720" height="720" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="720" display_aspect_den="720" frame_rate_num="24000" frame_rate_den="1001" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter0" out="00:00:03.962">
+      <property name="argument">私たちは、このような
+とてもかっこいいライトをつくりました</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter1" out="00:00:03.962">
+      <property name="argument">私たちは、このような
+とてもかっこいいライトをつくりました</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:35.577">
+    <property name="length">00:00:35.619</property>
+    <property name="eof">pause</property>
+    <property name="resource">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-19T12:41:23</property>
+    <property name="shotcut:hash">6ec479d564716ee753fb6505c05c9e61</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:00:11.637">
+    <property name="length">00:00:11.678</property>
+    <property name="eof">pause</property>
+    <property name="resource">ハサウェイ.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">68ca751f47a5331dc4e33fdc3d3927b3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">ハサウェイ.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.962"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.962"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:35.577"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:11.637"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:02:58.433">
+    <property name="length">00:02:58.475</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:02:58.433"/>
+  </playlist>
+  <producer id="producer16" in="00:00:00.000" out="00:00:31.990">
+    <property name="length">00:00:32.047</property>
+    <property name="eof">pause</property>
+    <property name="resource">視線変更.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:17:30</property>
+    <property name="shotcut:hash">e3cd115f5549a513db6d20b45544d08c</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">視線変更.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter14" in="00:00:06.715" out="00:00:20.938">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">3 -184 721 1282 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <blank length="00:01:50.259"/>
+    <entry producer="producer16" in="00:00:06.715" out="00:00:20.938"/>
+  </playlist>
+  <producer id="producer7" in="00:00:00.000" out="00:00:06.632">
+    <property name="length">00:00:06.668</property>
+    <property name="eof">pause</property>
+    <property name="resource">firsttake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">0ab7eb14597fcac84625e76b6efb2e5e</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">firsttake.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter5" out="00:00:06.632">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">0 -1 720 959 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:00:24.483">
+    <property name="length">00:00:24.504</property>
+    <property name="eof">pause</property>
+    <property name="resource">オープニング.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">871065edda455108f3dcf8c98ed4a125</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">オープニング.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter2" out="00:00:22.272">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">11 0 709 946 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">mission1.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:caption">mission1.png</property>
+    <property name="shotcut:hash">05d730760d209d5105627289b353b085</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter3" out="00:00:03.962">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-278 0 1279 719 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:41.083">
+    <property name="length">00:00:41.132</property>
+    <property name="eof">pause</property>
+    <property name="resource">散らかっているやつ.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">54b7203414882d9a03c9973386b73000</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">散らかっているやつ.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter6" out="00:00:40.415">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">1 0 751 1001 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">mission2.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:caption">mission2.png</property>
+    <property name="shotcut:hash">ecdbfa60d9ba468a6da817f7a67bc17a</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter4" out="00:00:03.962">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-211 44 1130 636 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:28.862">
+    <property name="length">00:00:28.922</property>
+    <property name="eof">pause</property>
+    <property name="resource">人が来たら点く.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:16:20</property>
+    <property name="shotcut:hash">1982aa042e12ab837fad5e66af46ca2a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人が来たら点く.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter7" in="00:00:01.418" out="00:00:04.254">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=162 0 404.438 719 1;00:00:02.920=7 0 708.75 1260 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:00:28.862">
+    <property name="length">00:00:28.922</property>
+    <property name="eof">pause</property>
+    <property name="resource">人が来たら点く.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:16:20</property>
+    <property name="shotcut:hash">1982aa042e12ab837fad5e66af46ca2a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人が来たら点く.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter8" in="00:00:04.379" out="00:00:06.089">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=7 0 709 1260 1;00:00:01.710~=0.1 -290.5 709 1261 1;00:00:01.752~=0.1 -283 709.312 1261 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:28.862">
+    <property name="length">00:00:28.922</property>
+    <property name="eof">pause</property>
+    <property name="resource">人が来たら点く.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:16:20</property>
+    <property name="shotcut:hash">1982aa042e12ab837fad5e66af46ca2a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人が来たら点く.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter9" in="00:00:06.131" out="00:00:22.439">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 -283 709.312 1261 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:00:28.862">
+    <property name="length">00:00:28.922</property>
+    <property name="eof">pause</property>
+    <property name="resource">人が来たら点く.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:16:20</property>
+    <property name="shotcut:hash">1982aa042e12ab837fad5e66af46ca2a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人が来たら点く.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter10" in="00:00:22.481" out="00:00:23.941">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 -283 709 1261 1;00:00:01.502=-80 -4 849 1510 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="00:00:28.862">
+    <property name="length">00:00:28.922</property>
+    <property name="eof">pause</property>
+    <property name="resource">人が来たら点く.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:16:20</property>
+    <property name="shotcut:hash">1982aa042e12ab837fad5e66af46ca2a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人が来たら点く.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter11" in="00:00:23.982" out="00:00:27.236">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=-80 -4 849 1510 1;00:00:02.377=-1 0 717 1275 1;00:00:03.295=4 -232 713 1267 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:28.862">
+    <property name="length">00:00:28.922</property>
+    <property name="eof">pause</property>
+    <property name="resource">人が来たら点く.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:16:20</property>
+    <property name="shotcut:hash">1982aa042e12ab837fad5e66af46ca2a</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人が来たら点く.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter12" in="00:00:27.277" out="00:00:28.862">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=4 -232 713 1267 1;00:00:01.585=-485 -596 1203 2139 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">停止.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:caption">停止.png</property>
+    <property name="shotcut:hash">03bfa35d9dd0657b84073da88ec0c4ee</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">mission3.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:caption">mission3.png</property>
+    <property name="shotcut:hash">a36d39ace3b80cb87344ced953bda21e</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter13" out="00:00:03.962">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-261 54 1147 645 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="00:00:03.921">
+    <property name="length">00:00:03.962</property>
+    <property name="eof">pause</property>
+    <property name="resource">ハサウェイ2.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">04d39179b2adbb0ce5466cf627f00eae</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">ハサウェイ2.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter15" out="00:00:03.921">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">3 -184 721 1282 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="00:00:03.921">
+    <property name="length">00:00:03.962</property>
+    <property name="eof">pause</property>
+    <property name="resource">ハサウェイ2.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">04d39179b2adbb0ce5466cf627f00eae</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">ハサウェイ2.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter16" out="00:00:03.921">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">3 -184 721 1282 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="00:00:03.921">
+    <property name="length">00:00:03.962</property>
+    <property name="eof">pause</property>
+    <property name="resource">ハサウェイ2.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">04d39179b2adbb0ce5466cf627f00eae</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">ハサウェイ2.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter17" out="00:00:01.376">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">3 -184 721 1282 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">mission4.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:caption">mission4.png</property>
+    <property name="shotcut:hash">653c860e17b888feeaa448e8fe7484fc</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter18" in="00:00:01.376" out="00:00:03.962">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-232 50 1114 627 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="00:00:38.830">
+    <property name="length">00:00:38.882</property>
+    <property name="eof">pause</property>
+    <property name="resource">人によって音楽が変わる.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:19:50</property>
+    <property name="shotcut:hash">3b8a4700f8f27e1dd7a17b152c8432d4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人によって音楽が変わる.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter19" in="00:00:03.962" out="00:00:17.392">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-13 -188 728 1294 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter20" in="00:00:03.962" out="00:00:17.392">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">20</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="00:00:38.830">
+    <property name="length">00:00:38.882</property>
+    <property name="eof">pause</property>
+    <property name="resource">人によって音楽が変わる.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:19:50</property>
+    <property name="shotcut:hash">3b8a4700f8f27e1dd7a17b152c8432d4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人によって音楽が変わる.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter21" in="00:00:17.434" out="00:00:19.102">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-13 -188 728 1294 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter22" in="00:00:17.434" out="00:00:19.102">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=20;00:00:01.710=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="00:00:38.830">
+    <property name="length">00:00:38.882</property>
+    <property name="eof">pause</property>
+    <property name="resource">人によって音楽が変わる.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:19:50</property>
+    <property name="shotcut:hash">3b8a4700f8f27e1dd7a17b152c8432d4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人によって音楽が変わる.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter23" in="00:00:19.144" out="00:00:21.438">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-13 -188 728 1294 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter24" in="00:00:19.144" out="00:00:21.438">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">0</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="00:00:38.830">
+    <property name="length">00:00:38.882</property>
+    <property name="eof">pause</property>
+    <property name="resource">人によって音楽が変わる.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:19:50</property>
+    <property name="shotcut:hash">3b8a4700f8f27e1dd7a17b152c8432d4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人によって音楽が変わる.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter25" in="00:00:21.480" out="00:00:22.314">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-13 -188 728 1294 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter26" in="00:00:21.480" out="00:00:22.314">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=0;00:00:00.876=20</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="00:00:38.830">
+    <property name="length">00:00:38.882</property>
+    <property name="eof">pause</property>
+    <property name="resource">人によって音楽が変わる.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:19:50</property>
+    <property name="shotcut:hash">3b8a4700f8f27e1dd7a17b152c8432d4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人によって音楽が変わる.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter27" in="00:00:22.356" out="00:00:37.287">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-13 -188 728 1294 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter28" in="00:00:22.356" out="00:00:37.287">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">20</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <producer id="producer27" in="00:00:00.000" out="00:00:38.830">
+    <property name="length">00:00:38.882</property>
+    <property name="eof">pause</property>
+    <property name="resource">人によって音楽が変わる.mp4</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-09T09:19:50</property>
+    <property name="shotcut:hash">3b8a4700f8f27e1dd7a17b152c8432d4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">人によって音楽が変わる.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter29" in="00:00:37.329" out="00:00:38.830">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-13 -188 728 1294 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter30" in="00:00:37.329" out="00:00:38.830">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=20;00:00:01.543=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer28" in="00:00:00.000" out="00:00:07.049">
+    <property name="length">00:00:07.090</property>
+    <property name="eof">pause</property>
+    <property name="resource">エンディング.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-20T07:33:41</property>
+    <property name="shotcut:hash">7210c4687cd970e12558733300837691</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">エンディング.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter31" out="00:00:07.049">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-269 2 1252 704 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:06.632"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:22.272"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.962"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:40.415"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.962"/>
+    <entry producer="producer9" in="00:00:01.418" out="00:00:04.254"/>
+    <entry producer="producer10" in="00:00:04.379" out="00:00:06.089"/>
+    <entry producer="producer11" in="00:00:06.131" out="00:00:22.439"/>
+    <entry producer="producer12" in="00:00:22.481" out="00:00:23.941"/>
+    <entry producer="producer13" in="00:00:23.982" out="00:00:27.236"/>
+    <entry producer="producer14" in="00:00:27.277" out="00:00:28.862"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:01.335"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:03.962"/>
+    <blank length="00:00:14.264"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:03.921"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:03.921"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:01.376"/>
+    <entry producer="producer21" in="00:00:01.376" out="00:00:03.962"/>
+    <entry producer="producer22" in="00:00:03.962" out="00:00:17.392"/>
+    <entry producer="producer23" in="00:00:17.434" out="00:00:19.102"/>
+    <entry producer="producer24" in="00:00:19.144" out="00:00:21.438"/>
+    <entry producer="producer25" in="00:00:21.480" out="00:00:22.314"/>
+    <entry producer="producer26" in="00:00:22.356" out="00:00:37.287"/>
+    <entry producer="producer27" in="00:00:37.329" out="00:00:38.830"/>
+    <entry producer="producer28" in="00:00:00.000" out="00:00:07.049"/>
+  </playlist>
+  <producer id="producer29" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter32" out="00:00:05.005">
+      <property name="argument">私たちは、このような
+とてもかっこいいライトをつくりました</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer30" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter33" out="00:00:01.084">
+      <property name="argument">商品名は</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer31" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter34" out="00:00:02.628">
+      <property name="argument">ドラゴンライト</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0a1a</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer32" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter35" out="00:00:03.962">
+      <property name="argument">商品をつくるにあたり、
+見た目にこだわりました</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer33" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter36" out="00:00:04.713">
+      <property name="argument">机に長く座っている学生を
+ターゲットにしているため、</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer34" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter37" out="00:00:04.671">
+      <property name="argument">学生に一番受けのいい
+ドラゴンのアームを採用しました</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer35" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter38" out="00:00:03.962">
+      <property name="argument">勉強したいけど...
+机散らかってんなー</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer36" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter39" out="00:00:02.794">
+      <property name="argument">片付けるか―</property>
+      <property name="geometry">65 628 645 81 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">48</property>
+    </filter>
+  </producer>
+  <producer id="producer37" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter40" out="00:00:02.211">
+      <property name="argument">なんでも入るわー</property>
+      <property name="geometry">51 642 636 74 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer38" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter41" out="00:00:04.296">
+      <property name="argument">人が近づくと、、、</property>
+      <property name="geometry">44 635 676 76 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer39" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter42" out="00:00:03.962">
+      <property name="argument">点灯！</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer40" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter43" out="00:00:03.420">
+      <property name="argument">人が離れると、、、</property>
+      <property name="geometry">27 635 657 81 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer41" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter44" out="00:00:02.211">
+      <property name="argument">消灯！</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer42" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter45" out="00:00:03.128">
+      <property name="argument">右を向くと、照明も右に</property>
+      <property name="geometry">55 649 636 71 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer43" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter46" out="00:00:02.044">
+      <property name="argument">正面を向くと、照明も正面に</property>
+      <property name="geometry">55 649 636 71 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer44" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter47" out="00:00:02.294">
+      <property name="argument">左を向くと、照明も左に</property>
+      <property name="geometry">55 649 636 71 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer45" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">閃光のハサウェイ.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:caption">閃光のハサウェイ.png</property>
+    <property name="shotcut:hash">896f7a1d8c4927fe31fcc2f87bfbf728</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter48" out="00:00:09.301">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">76 441 609 191 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer46" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter49" in="00:00:01.919" out="00:00:10.928">
+      <property name="argument">倉持君が座ると、
+倉持君が好きな&quot;Teenager Forever&quot;が流れます</property>
+      <property name="geometry">18 610 687 106 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer47" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter50" out="00:00:03.253">
+      <property name="argument">いなくなると、照明と音楽が停止</property>
+      <property name="geometry">32 633 671 80 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer48" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter51" out="00:00:02.085">
+      <property name="argument">(誤作動)</property>
+      <property name="geometry">34 649 648 59 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer49" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter52" out="00:00:11.220">
+      <property name="argument">桑原君が座ると、
+桑原君が好きな&quot;白日&quot;が流れます
+</property>
+      <property name="geometry">14 617 692 132 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">100</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <blank length="00:00:06.673"/>
+    <entry producer="producer29" in="00:00:00.000" out="00:00:05.005"/>
+    <entry producer="producer30" in="00:00:00.000" out="00:00:01.084"/>
+    <entry producer="producer31" in="00:00:00.000" out="00:00:02.628"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:00:03.962"/>
+    <entry producer="producer33" in="00:00:00.000" out="00:00:04.713"/>
+    <entry producer="producer34" in="00:00:00.000" out="00:00:04.671"/>
+    <blank length="00:00:04.004"/>
+    <entry producer="producer35" in="00:00:00.000" out="00:00:03.962"/>
+    <blank length="00:00:01.001"/>
+    <entry producer="producer36" in="00:00:00.000" out="00:00:02.794"/>
+    <blank length="00:00:11.845"/>
+    <entry producer="producer37" in="00:00:00.000" out="00:00:02.211"/>
+    <blank length="00:00:23.148"/>
+    <entry producer="producer38" in="00:00:00.000" out="00:00:04.296"/>
+    <entry producer="producer39" in="00:00:00.000" out="00:00:03.962"/>
+    <blank length="00:00:13.764"/>
+    <entry producer="producer40" in="00:00:00.000" out="00:00:03.420"/>
+    <entry producer="producer41" in="00:00:00.000" out="00:00:02.211"/>
+    <blank length="00:00:07.841"/>
+    <entry producer="producer42" in="00:00:00.000" out="00:00:03.128"/>
+    <entry producer="producer43" in="00:00:00.000" out="00:00:02.044"/>
+    <entry producer="producer44" in="00:00:00.000" out="00:00:02.294"/>
+    <blank length="00:00:03.170"/>
+    <entry producer="producer45" in="00:00:00.000" out="00:00:09.301"/>
+    <blank length="00:00:04.546"/>
+    <entry producer="producer46" in="00:00:01.919" out="00:00:10.928"/>
+    <blank length="00:00:00.792"/>
+    <entry producer="producer47" in="00:00:00.000" out="00:00:03.253"/>
+    <blank length="00:00:00.209"/>
+    <entry producer="producer48" in="00:00:00.000" out="00:00:02.085"/>
+    <blank length="00:00:02.461"/>
+    <entry producer="producer49" in="00:00:00.000" out="00:00:11.220"/>
+  </playlist>
+  <producer id="producer50" in="00:00:00.000" out="00:00:01.877">
+    <property name="length">00:00:01.919</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/sd20073/Downloads/ラッパのファンファーレ.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">0f3b969472e0286eb0b853217aba456e</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">ラッパのファンファーレ.mp3</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer51" in="00:00:00.000" out="00:00:01.877">
+    <property name="length">00:00:01.919</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/sd20073/Downloads/ラッパのファンファーレ.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">0f3b969472e0286eb0b853217aba456e</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">ラッパのファンファーレ.mp3</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer52" in="00:00:00.000" out="00:00:35.577">
+    <property name="length">00:00:35.619</property>
+    <property name="eof">pause</property>
+    <property name="resource">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-19T12:41:23</property>
+    <property name="shotcut:hash">6ec479d564716ee753fb6505c05c9e61</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter53" out="00:00:14.223">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-21.24;00:00:14.264=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer53" in="00:00:00.000" out="00:00:35.577">
+    <property name="length">00:00:35.619</property>
+    <property name="eof">pause</property>
+    <property name="resource">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-19T12:41:23</property>
+    <property name="shotcut:hash">6ec479d564716ee753fb6505c05c9e61</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter54" in="00:00:14.264" out="00:00:21.647">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">0</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <producer id="producer54" in="00:00:00.000" out="00:00:35.577">
+    <property name="length">00:00:35.619</property>
+    <property name="eof">pause</property>
+    <property name="resource">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2022-12-19T12:41:23</property>
+    <property name="shotcut:hash">6ec479d564716ee753fb6505c05c9e61</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">閃光ハサウェイmeme 【GB素材配布】 - YouTube - Google Chrome 2022-12-19 21-40-48.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter55" in="00:00:21.688" out="00:00:23.565">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=0;00:00:01.919=-30</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:01:22.439"/>
+    <entry producer="producer50" in="00:00:00.000" out="00:00:01.877"/>
+    <blank length="00:00:19.311"/>
+    <entry producer="producer51" in="00:00:00.000" out="00:00:01.877"/>
+    <blank length="00:00:04.671"/>
+    <entry producer="producer52" in="00:00:00.000" out="00:00:14.223"/>
+    <entry producer="producer53" in="00:00:14.264" out="00:00:21.647"/>
+    <entry producer="producer54" in="00:00:21.688" out="00:00:23.565"/>
+  </playlist>
+  <producer id="producer55" in="00:00:00.000" out="03:59:59.977">
+    <property name="length">04:00:00.042</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/sd20073/Downloads/S__4939781.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-12-20T07:52:40</property>
+    <property name="shotcut:caption">S__4939781.jpg</property>
+    <property name="shotcut:hash">b36391e7cfe0ba6d220c7b0dd4817845</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter56" in="00:00:00.250" out="00:00:02.252">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">10.66 52.6737 283.68 190 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">342.224</property>
+    </filter>
+  </producer>
+  <playlist id="playlist4">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V4</property>
+    <blank length="00:00:13.347"/>
+    <entry producer="producer55" in="00:00:00.250" out="00:00:02.252"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 20.10.31" global_feed="1" in="00:00:00.000" out="00:02:58.433">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">4.25086</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="audio"/>
+    <track producer="playlist1"/>
+    <track producer="playlist2" hide="audio"/>
+    <track producer="playlist3" hide="video"/>
+    <track producer="playlist4"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">1</property>
+      <property name="b_track">5</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
